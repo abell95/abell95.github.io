@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+  
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+canvas {
+    border: 1rem solid black;
+}

@@ -1,0 +1,14 @@
+.tic-tac-toe td {
+  border: 5px solid black;
+  padding: 0;
+  margin: 0;
+  width: 15rem;
+  height: 15rem;
+  background-color: #ccc;
+  text-align: center;
+}
+
+h1 {
+  font-size: 7.5rem;
+  line-height: 0;
+}
